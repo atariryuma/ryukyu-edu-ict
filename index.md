@@ -1,5 +1,4 @@
 ---
-layout: default
 title: "教育におけるICT活用 1組（2025年前期 集中講義）"
 ---
 

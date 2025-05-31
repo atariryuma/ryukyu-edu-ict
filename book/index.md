@@ -1,5 +1,4 @@
 ---
-layout: default
 title: "教科書：「教育におけるICT活用」"
 ---
 
